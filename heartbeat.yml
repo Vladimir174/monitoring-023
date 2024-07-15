@@ -195,6 +195,7 @@ processors:
 #
 heartbeat.monitors:
 - type: http
+  name: "CMS-OTUS-Wordpress"
   urls: ["http://192.168.112.125"]
   schedule: '@every 1m'
   check.request:
@@ -203,10 +204,9 @@ heartbeat.monitors:
     status: 200
 
 - type: tcp
+  name: "Database Port Monitor"
   hosts: ["192.168.112.125:3306"]
   schedule: '@every 1m'
-  check.send: "HELLO"
-  check.receive: "HELLO"
 
 # ============================== Instrumentation ===============================
 
