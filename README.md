@@ -19,7 +19,7 @@ Beats - инструменты доставки данных // ДЗ
   metricbeat - https://github.com/Vladimir174/monitoring-023/tree/main/metricbeat
 
   
-  Heartbeat -
+  Heartbeat - 
    ![image](https://github.com/user-attachments/assets/ffb25da6-8953-4143-8fc1-3e2f11e10a0d)
 
    **filebeat cобирает логи nginx, php-fpm и БД.**
@@ -47,6 +47,11 @@ Beats - инструменты доставки данных // ДЗ
 
 
 ![image](https://github.com/user-attachments/assets/508022f3-b172-4eeb-aeeb-afae42abf14f)
+
+**Мониторы**
+
+![image](https://github.com/user-attachments/assets/46335801-f861-486d-901f-a1990d1bf3a0)
+
 
 
 
