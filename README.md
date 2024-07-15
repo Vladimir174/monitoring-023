@@ -16,7 +16,7 @@ Beats - инструменты доставки данных // ДЗ
   filebeat - https://github.com/Vladimir174/monitoring-023/blob/main/filebeat.yml
 
   
-  metricbeat - 
+  metricbeat - https://github.com/Vladimir174/monitoring-023/tree/main/metricbeat
 
   
   Heartbeat -
