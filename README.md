@@ -11,7 +11,12 @@ Beats - инструменты доставки данных // ДЗ
 3. Установите на второй VM Elasticsearch и kibana, а также heartbeat; Heartbeat должен проверять доступность следующих ресурсов: веб адрес вашей CMS и порта БД
 
 
-  **Установлены filebeat и metricbeat на одну ВМ Otut-vm-doc (192.168.112.125),а на вторую otus-vm-elastick(192.168.112.27) heartbeat elasticsearch и kibana**. Конфиги: 
+  **Установлены filebeat и metricbeat на одну ВМ Otut-vm-doc (192.168.112.125),а на вторую otus-vm-elastick(192.168.112.27) heartbeat elasticsearch и kibana**. 
+  
+  ![image](https://github.com/user-attachments/assets/5c87099e-7780-4201-8f08-5ca479883ca2)
+
+  
+Конфиги: 
   
   filebeat - https://github.com/Vladimir174/monitoring-023/blob/main/filebeat.yml
 
