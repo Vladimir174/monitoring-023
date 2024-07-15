@@ -17,6 +17,8 @@ Beats - инструменты доставки данных // ДЗ
 
   
   metricbeat - 
+
+  
   Heartbeat -
    ![image](https://github.com/user-attachments/assets/ffb25da6-8953-4143-8fc1-3e2f11e10a0d)
 
